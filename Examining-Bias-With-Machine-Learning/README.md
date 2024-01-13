@@ -1,6 +1,5 @@
 # Examining Bias With Machine Learning
 
-## I can't wait to work on this project!
 Project Overview
 This project involved the development of a custom sentiment analysis algorithm tailored for opinion-based writing, using Python and advanced Natural Language Processing (NLP) libraries. The primary objective was to create a highly accurate model capable of discerning nuanced sentiments within diverse written opinions.
 
